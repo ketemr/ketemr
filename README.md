@@ -11,6 +11,7 @@ I'm a manager trying to code more on day-to-day work.
 [![LinkedIn](https://img.shields.io/badge/-ketemr-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketemr/)
 [![Twitter](https://img.shields.io/badge/-ketemr_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ketemr)
 [![Gmail](https://img.shields.io/badge/-ketemartinsrufino-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ketemartinsrufino@gmail.com)
+- Old github account: https://github.com/ketemartinsrufino
 
 ### ⚙️ &nbsp;GitHub Analytics
 
